@@ -1,7 +1,21 @@
+:root {
+    --cor-verde: #DAFF01;
+    --cor-lilas: #9353FF;
+}
+
 .texto-menor {
     font-size: 13px;
 }
 
 .divs-facilidades {
     width: 325px
+}
+
+
+.cor-verde {
+    color: var(--cor-verde);
+}
+
+.botao-lilas {
+   background-color: var(--cor-lilas);
 }
